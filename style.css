@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://www.photos-public-domain.com/wp-content/uploads/2014/12/blurred-christmas-lights-pink.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,11 +9,15 @@
     }
     h1 {
       font-size: 70px;
+      color: pink ;
     }
+    
     img {
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
       border-radius: 20px;
+      width: 500px;
+      height: 300px ;
     }
     ul {
       padding: 10px;
@@ -37,4 +41,5 @@
         padding: 5px;
         display: block;
       }
+      
     }
